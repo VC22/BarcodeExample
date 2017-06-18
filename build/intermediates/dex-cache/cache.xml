@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Download\201705\BarcodeExample\app\libs\DataCollection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="552bc3ffa1d0ac31084ab3b78080b2e62df4f316">
+        <dex dex="D:\Download\201705\BarcodeExample\app\build\intermediates\pre-dexed\debug\DataCollection_c82b02275c009f93d81550d66c7429e446254f12.jar" />
+    </item>
+
+</items>
